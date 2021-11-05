@@ -8,6 +8,8 @@
 
 [![Deploy to Begin](https://static.begin.com/deploy-to-begin.svg)](https://begin.com/apps/create?template=https://github.com/begin-examples/node-svelte)
 
+https://static.begin.com/deploy-to-begin.svg - (https://begin.com/apps/create?template=https://github.com/begin-examples/node-svelte
+
 Deploy your own clone of this app to Begin!
 
 ## Getting started
